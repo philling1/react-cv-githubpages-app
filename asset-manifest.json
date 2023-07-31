@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-cv-githubpages-app/static/css/main.f229d28b.css",
+    "main.js": "/react-cv-githubpages-app/static/js/main.bbc422c5.js",
+    "static/media/20221231_020941.jpg": "/react-cv-githubpages-app/static/media/20221231_020941.f5d161cd063976cf9937.jpg",
+    "index.html": "/react-cv-githubpages-app/index.html",
+    "main.f229d28b.css.map": "/react-cv-githubpages-app/static/css/main.f229d28b.css.map",
+    "main.bbc422c5.js.map": "/react-cv-githubpages-app/static/js/main.bbc422c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f229d28b.css",
+    "static/js/main.bbc422c5.js"
+  ]
+}
